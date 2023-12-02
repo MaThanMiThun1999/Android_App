@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_hills.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\hills.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_amritsar_jallianwala_bagh.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\amritsar_jallianwala_bagh.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_round_logo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\round_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_udaipur.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\udaipur.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_darjeeling.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\darjeeling.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\layout_activity_danger_place_list.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\layout\\activity_danger_place_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_mysore.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\mysore.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_garden.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\garden.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\font_nunito_sans_bold.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\font\\nunito_sans_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_amritsar_food_paratha.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\amritsar_food_paratha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_amritsar_food_sarsonkasag.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\amritsar_food_sarsonkasag.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_mumbai.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\mumbai.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\font_nunito_sans_extrabold.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\font\\nunito_sans_extrabold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\layout_tour_attractions_list_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\layout\\tour_attractions_list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.namakkaltourism.app-merged_res-29:/layout_activity_danger_place_details.xml.flat",
+        "source": "com.example.namakkaltourism.app-main-31:/layout/activity_danger_place_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_ardhanare.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\ardhanare.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_agra_food_petha.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\agra_food_petha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_jedarpalayam.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\jedarpalayam.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_hills_pin.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\hills_pin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_selur.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\selur.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_agra_food_paratha.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\agra_food_paratha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_varanasi.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\varanasi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_waterfalls.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\waterfalls.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_art_radha.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\art_radha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_agra_food_bhalla.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\agra_food_bhalla.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_art_ucchi.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\art_ucchi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_ic_baseline_keyboard_arrow_right_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\ic_baseline_keyboard_arrow_right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_puliancholai.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\puliancholai.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_boat.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\boat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_art_ach.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\art_ach.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_agra.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\agra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_hills_aruvi.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\hills_aruvi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_sankagiri.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\sankagiri.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_agra_agrafort.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\agra_agrafort.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_amritsar.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\amritsar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\layout_home_recyclerview_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\layout\\home_recyclerview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_anj_a2b.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\anj_a2b.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_amritsar_golden_temple.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\amritsar_golden_temple.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_caves.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\caves.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_anjaneyar.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\anjaneyar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_arappaleeswarar.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\arappaleeswarar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\font_nunito_sans_semibold.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\font\\nunito_sans_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_kolli.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\kolli.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_anj_ramvilas.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\anj_ramvilas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_varadikallu.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\varadikallu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\layout_activity_danger_place_details.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\layout\\activity_danger_place_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_round_logo_2.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\round_logo_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\layout_activity_place_details.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\layout\\activity_place_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_anj_stall.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\anj_stall.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\layout_activity_tour_attractions_list.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\layout\\activity_tour_attractions_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_kolkata.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\kolkata.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_anj_narasima.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\anj_narasima.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_delhi.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\delhi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-merged_res-29:\\drawable_art_dol.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.namakkaltourism.app-main-31:\\drawable\\art_dol.jpg"
+    }
+]

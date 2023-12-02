@@ -1,0 +1,3 @@
+com.example.namakkaltourism.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
